@@ -46,6 +46,6 @@ Welcome to my corner of the digital world where passion meets technology!
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/50px-Jupyter_logo.svg.png" width="50" height="48" style="margin-right: 10px;">
     </a>
     <a href="https://www.overleaf.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Overleaf_Logo_v2.svg/50px-Overleaf_Logo_v2.svg.png" width="48" height="48"> 
+        <img src="overleaf.png" width="48" height="48"> 
     </a>
 </p>
