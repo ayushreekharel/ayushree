@@ -43,9 +43,9 @@ Welcome to my corner of the digital world where passion meets technology!
         <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" style="margin-right: 10px;">
     </a>
     <a href="https://jupyter.org/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/jupyter.png" width="50" height="48" style="margin-right: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/50px-Jupyter_logo.svg.png" width="50" height="48" style="margin-right: 10px;">
     </a>
     <a href="https://www.overleaf.com/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/overleaf.png" width="48" height="48">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Overleaf_logo.svg/50px-Overleaf_logo.svg.png" width="48" height="48">  
     </a>
 </p>
