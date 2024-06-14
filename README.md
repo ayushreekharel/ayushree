@@ -11,20 +11,33 @@ Welcome to my corner of the digital world where passion meets technology!
 
 
 
-## Languages and Tools:
-<!-- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) -->
 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+
+
+<!-- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/jupyter.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/latex.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/latex.png"/> -->
+
+## Languages and Tools:
+
+<style>
+    .tool-logo {
+        display: inline-block;
+        margin-right: 20px; /* Adjust margin as needed */
+    }
+</style>
+
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" class="tool-logo"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" class="tool-logo"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" class="tool-logo"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" class="tool-logo"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" class="tool-logo"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" class="tool-logo"/>
+<img src="https://img.icons8.com/color/48/000000/jupyter.png" class="tool-logo"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/latex.png" class="tool-logo"/>
+
