@@ -18,8 +18,4 @@ Welcome to my corner of the digital world where passion meets technology!
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Ayushree Kharel's GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushreekharel&show_icons=true&theme=radical)
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushreekharel&layout=compact&theme=radical)
