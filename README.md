@@ -7,7 +7,8 @@ Welcome to my corner of the digital world where passion meets technology!
 - ⚽ Sports keep me energized and inspired.
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://np.linkedin.com/in/ayushree-kharel-754782188)
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://np.linkedin.com/in/ayushree-kharel-754782188)
+
 
 
 ## Languages and Tools:
