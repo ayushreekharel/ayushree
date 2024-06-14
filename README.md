@@ -20,7 +20,7 @@ Welcome to my corner of the digital world where passion meets technology!
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) -->
 
-[<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>]
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 [<img src="https://img.icons8.com/color/48/000000/html-5.png"/>]
 [<img src="https://img.icons8.com/color/48/000000/css3.png"/>]
 [<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>]
