@@ -64,6 +64,6 @@ Welcome to my corner of the digital world where passion meets technology!
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48" height="48" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" style="margin-right: 10px;">
-    <img src="jupyter.png" width="48" height="48" style="margin-right: 10px;">
+    <img src="jupyter.png" width="50" height="48" style="margin-right: 10px;">
     <img src="overleaf.png" width="48" height="48">
 </p>
