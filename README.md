@@ -23,7 +23,7 @@ Welcome to my corner of the digital world where passion meets technology!
 <img src="https://img.icons8.com/color/48/000000/jupyter.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/latex.png"/> -->
 
-## Languages and Tools:
+<!-- ## Languages and Tools:
 
 <style>
     .tool-logo {
@@ -39,5 +39,17 @@ Welcome to my corner of the digital world where passion meets technology!
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" class="tool-logo"/>
 <img src="https://img.icons8.com/color/48/000000/python.png" class="tool-logo"/>
 <img src="https://img.icons8.com/color/48/000000/jupyter.png" class="tool-logo"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/latex.png" class="tool-logo"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/latex.png" class="tool-logo"/> -->
 
+## Languages and Tools:
+
+<p float="left">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48" height="48" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/jupyter.png" width="48" height="48" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/latex.png" width="48" height="48">
+</p>
