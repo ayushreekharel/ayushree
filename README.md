@@ -9,55 +9,9 @@ Welcome to my corner of the digital world where passion meets technology!
 ## Connect with me:
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://np.linkedin.com/in/ayushree-kharel-754782188)
 
-
-
-
-
-
-<!-- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/jupyter.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/latex.png"/> -->
-
-<!-- ## Languages and Tools:
-
-<style>
-    .tool-logo {
-        display: inline-block;
-        margin-right: 20px; /* Adjust margin as needed */
-    }
-</style>
-
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" class="tool-logo"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png" class="tool-logo"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" class="tool-logo"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" class="tool-logo"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" class="tool-logo"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" class="tool-logo"/>
-<img src="https://img.icons8.com/color/48/000000/jupyter.png" class="tool-logo"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/latex.png" class="tool-logo"/> -->
-
-<!-- ## Languages and Tools:
-
-<p float="left">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48" height="48" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/jupyter.png" width="48" height="48" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/latex.png" width="48" height="48">
-</p> -->
-
-
 ## Languages and Tools:
 
-<p float="left">
+<!-- <p float="left">
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" style="margin-right: 10px;">
@@ -66,4 +20,32 @@ Welcome to my corner of the digital world where passion meets technology!
     <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/jupyter.png" width="50" height="48" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/overleaf.png" width="48" height="48">
+</p> -->
+
+
+<p float="left">
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" style="margin-right: 10px;">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" style="margin-right: 10px;">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" style="margin-right: 10px;">
+    </a>
+    <a href="https://devdocs.io/c/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48" height="48" style="margin-right: 10px;">
+    </a>
+    <a href="https://isocpp.org/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" style="margin-right: 10px;">
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" style="margin-right: 10px;">
+    </a>
+    <a href="https://jupyter.org/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/jupyter.png" width="50" height="48" style="margin-right: 10px;">
+    </a>
+    <a href="https://www.overleaf.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/overleaf.png" width="48" height="48">
+    </a>
 </p>
